@@ -1,10 +1,8 @@
 import subprocess
 from datetime import datetime
 
-QUESTIONS = [
-    "What accounts and tools does a new Office of Innovation team member need to set up in their first week, and what security requirements apply to each?",
-    "Which onboarding items differ for temporary employees versus full-time employees, and who should be contacted if issues arise?",
-    "Summarize the full onboarding process from day one through the first few months, including required trainings and onboarding sessions."
+# Write your questions for testing
+QUESTIONS = [ 
 ]
 
 OUTPUT_FILE = "query_results.txt"
