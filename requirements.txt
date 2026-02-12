@@ -1,0 +1,12 @@
+# GitHub API
+PyGithub==2.1.1
+
+# Environment variables (optional)
+python-dotenv==1.0.0
+
+# RAG & LLM (add these as you build the system)
+# langchain==0.1.0
+# openai==1.0.0
+# chromadb==0.4.0
+# faiss-cpu==1.7.4
+# sentence-transformers==2.2.2
