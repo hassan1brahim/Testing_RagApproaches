@@ -25,7 +25,7 @@ This project includes an experiment comparing three prompting strategies:
 
 Run the experiment:
 ```bash
-python run_experiment.py
+python runAll.py
 ```
 
 Results are saved to `experiment_results.txt`.
