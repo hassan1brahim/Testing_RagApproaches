@@ -167,8 +167,8 @@ Answer: Documentation has clarity problems [Source 1] and contains
 outdated information [Source 3].
 
 Sources:
-  - Source 1: tech_ops_review.pdf, Page 5, Chunk: pdfs/tech_ops_review.pdf:4:0
-  - Source 3: tech_ops_review.pdf, Page 12, Chunk: pdfs/tech_ops_review.pdf:11:2
+  - Source 1: review.pdf, Page 5, Chunk: pdfs/review.pdf:4:0
+  - Source 3: review.pdf, Page 12, Chunk: pdfs/review.pdf:11:2
 ```
 
 ### `runAll.py` — Test Harness
@@ -190,7 +190,7 @@ No additional embedding required. Citations use metadata already stored in Chrom
 ChromaDB stores per chunk:
 ┌─────────────────────────────────────────────────┐
 │ content: "Documentation lacks structure..."     │
-│ metadata: {source: "pdfs/tech.pdf", page: 4}   │
+│ metadata: {source: "pdfs/review.pdf", page: 4}   │
 │ embedding: [0.12, -0.34, 0.56, ...]            │
 └─────────────────────────────────────────────────┘
          ↓
